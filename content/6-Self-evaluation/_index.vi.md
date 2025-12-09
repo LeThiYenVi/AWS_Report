@@ -5,7 +5,7 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-Trong suốt thời gian thực tập tại **CÔNG TY TNHH AMAZON WEB SERVICES VIỆT NAM** từ **08/09** đến **[ngày kết thúc]**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng kiến thức đã được trang bị tại trường vào môi trường làm việc thực tế.  
+Trong suốt thời gian thực tập tại **CÔNG TY TNHH AMAZON WEB SERVICES VIỆT NAM** từ **08/09** đến **12/12**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng kiến thức đã được trang bị tại trường vào môi trường làm việc thực tế.  
 Tôi đã tham gia vào dự án **VoltGo - Hệ thống cho thuê xe điện tại điểm cố định (EV Station-based Rental System)** với vai trò Frontend (FE).Đây là giải pháp di chuyển xanh cho đô thị thông minh, nhằm cung cấp một nền tảng "tất cả trong một" trên đám mây để hợp nhất việc tìm kiếm, đặt xe theo thời gian thực và thanh toán, giải quyết tình trạng phân mảnh dịch vụ hiện nay. 
 
 Thông qua quá trình tham gia phát triển dự án, tôi đã tích lũy và mở rộng đáng kể bộ kỹ năng chuyên môn, bao gồm:<br>

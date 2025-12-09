@@ -5,7 +5,7 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-During my internship at **AMAZON WEB SERVICES VIETNAM COMPANY LIMITED** from **09/08** to **[end date]**, I had the opportunity to learn, practice, and apply the knowledge acquired in school to a real-world working environment.  
+During my internship at **AMAZON WEB SERVICES VIETNAM COMPANY LIMITED** from **09/08** to **12/12**, I had the opportunity to learn, practice, and apply the knowledge acquired in school to a real-world working environment.  
 I participated in the **VoltGo - EV Station-based Rental System** project as a Frontend (FE) developer. This is a green mobility solution for smart cities, aiming to provide an "all-in-one" cloud-based platform that unifies searching, real-time booking, and payment, addressing the current service fragmentation.
 
 Through my participation in project development, I have accumulated and significantly expanded my professional skill set, including:<br>
