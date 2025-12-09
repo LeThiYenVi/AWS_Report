@@ -221,15 +221,15 @@
 4. Chọn use case: **Application running outside AWS**
 5. Click **Next** → **Create access key**
 6. ⚠️ **QUAN TRỌNG**: Copy và lưu lại:
-   - `Access key ID` (ví dụ: `AKIA5GPEMGJZK6E7PMEB`)
-   - `Secret access key` (chỉ hiển thị 1 lần, ví dụ: `rjdmRevLjK+TuIZF5jyta9+9lw0mU+0CGe6A7QlK`)
+   - `Access key ID` (ví dụ: `AKIAIOSFODNN7EXAMPLE`)
+   - `Secret access key` (chỉ hiển thị 1 lần, ví dụ: `wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY`)
 7. Click **Done**
 
 **⚠️ Lưu ý bảo mật:**
 ```bash
 # Lưu vào .env file (KHÔNG commit lên Git)
-AWS_ACCESS_KEY_ID=AKIA5GPEMGJZK6E7PMEB
-AWS_SECRET_ACCESS_KEY=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
+AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMPLE
+AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
 AWS_REGION=us-west-2
 ```
 
