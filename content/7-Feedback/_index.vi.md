@@ -13,7 +13,13 @@ pre: " <b> 7. </b> "
 Môi trường tại FCJ rất chuyên nghiệp, năng động và đậm chất công nghệ. Điều tôi ấn tượng nhất là văn hóa "Open communication" (Giao tiếp mở) – nơi mọi ý kiến đều được lắng nghe. Không gian làm việc kích thích sự sáng tạo, đặc biệt là hạ tầng và tài nguyên Cloud luôn sẵn sàng để thực tập sinh trải nghiệm. Tuy nhiên, đôi khi áp lực dự án cao khiến không khí hơi căng thẳng, tôi nghĩ việc có thêm các khoảng nghỉ ngắn (break-time activities) sẽ giúp mọi người tái tạo năng lượng tốt hơn. 
 
 **2. Sự hỗ trợ của mentor / team admin**  
-Mentor hướng dẫn rất chi tiết, giải thích rõ ràng khi mình chưa hiểu và luôn khuyến khích mình đặt câu hỏi. Team admin hỗ trợ các thủ tục, tài liệu và tạo điều kiện để mình làm việc thuận lợi. Mình đánh giá cao việc mentor cho phép mình thử và tự xử lý vấn đề thay vì chỉ đưa đáp án.
+Hành trình tại FCJ của em sẽ không thể trọn vẹn nếu thiếu đi sự đồng hành của những người dẫn đường tâm huyết.
+
+Em xin gửi lời tri ân sâu sắc đến các anh trong đội ngũ Admin và Mentor, đặc biệt là anh Nguyễn Gia Hưng, anh Văn Hoàng Kha, anh Lữ Hoàn Thiện, anh Nguyễn Tuấn Thịnh,anh Lê Nguyễn Vũ Hoàng và anh Nguyễn Đồng Thanh Hiệp . Cảm ơn các anh – những người Mentor và Admin "có tâm nhất hệ mặt trời" – đã không quản ngại ngày đêm support, từ việc nhỏ nhặt nhất như điểm danh đến việc định hình tư duy giải quyết vấn đề lớn.
+
+Cảm ơn các anh đã luôn kiên nhẫn lắng nghe, động viên những lúc em bế tắc và tạo điều kiện tốt nhất để em phát huy khả năng. Những bài học từ các anh chính là hành trang quý giá nhất mà em nhận được sau chương trình này.
+
+Xin gửi lời chúc sức khỏe và thành công đến toàn thể đội ngũ Admin và Mentor của FCJ.
 
 **3. Sự phù hợp giữa công việc và chuyên ngành học**  
 Chương trình giúp tôi mở rộng vùng an toàn, từ việc chỉ biết viết code giao diện sang việc hiểu cách frontend tương tác với hệ thống backend và hạ tầng đám mây. Đây là sự bổ trợ quý giá mà trường lớp ít có điều kiện đi sâu.

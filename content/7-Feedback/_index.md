@@ -13,7 +13,11 @@ pre: " <b> 7. </b> "
 The environment at FCJ is very professional, dynamic, and technology-focused. What impressed me most is the "Open communication" culture – where all opinions are heard. The workspace stimulates creativity, especially with cloud infrastructure and resources always available for interns to experience. However, sometimes high project pressure creates a somewhat tense atmosphere. I think having additional short break-time activities would help everyone recharge better.
 
 **2. Support from Mentor / Team Admin**  
-The mentor provides very detailed guidance, explains clearly when I don't understand, and always encourages me to ask questions. The admin team supports procedures, documentation, and creates favorable conditions for me to work smoothly. I highly appreciate that the mentor allows me to try and solve problems myself instead of just giving answers.
+I am deeply grateful for the guidance of the FCJ team. My journey would not have been complete without you.
+
+Special thanks to Mr. Nguyen Gia Hung, Mr. Van Hoang Kha, Mr. Lu Hoan Thien, Mr. Nguyen Tuan Thinh, Mr. Le Nguyen Vu Hoang, and Mr. Nguyen Dong Thanh Hiep. Thank you for your tireless dedication, supporting me day and night—from administrative tasks to shaping my technical mindset. Your patience and encouragement helped me overcome challenges and grow significantly.
+
+I wish the entire FCJ Admin and Mentor team continued health and success.
 
 **3. Relevance of Work to Academic Major**  
 The program helped me expand my comfort zone, from only knowing how to write frontend code to understanding how the frontend interacts with backend systems and cloud infrastructure. This is valuable supplementary knowledge that schools rarely have the opportunity to delve into deeply.
